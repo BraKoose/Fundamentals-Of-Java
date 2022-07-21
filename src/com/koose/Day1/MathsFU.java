@@ -1,4 +1,4 @@
-package com.koose;
+package com.koose.Day1;
 
 import static java.lang.Math.pow;
 

@@ -1,4 +1,4 @@
-package com.koose;
+package com.koose.Day1;
 
 public class FloatinPoints {
     public static void main(String[] args){
