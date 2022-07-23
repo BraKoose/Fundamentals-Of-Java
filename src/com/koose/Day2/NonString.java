@@ -11,6 +11,10 @@ public class NonString {
 
         s3 = s3.toUpperCase();
 
+        String k = "This programs says : \"Hello Koose\"";
+
+        System.out.println(k);
+
         System.out.println(s3.replace('S', '$') );
         System.out.println(s3);
     }
