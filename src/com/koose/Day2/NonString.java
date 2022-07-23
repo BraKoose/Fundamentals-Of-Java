@@ -9,6 +9,9 @@ public class NonString {
         String p = "Koose";
         String s3 = o + " "+ p;
 
+        s3 = s3.toUpperCase();
+
+        System.out.println(s3.replace('S', '$') );
         System.out.println(s3);
     }
 }
